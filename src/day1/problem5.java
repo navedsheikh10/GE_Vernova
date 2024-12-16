@@ -1,3 +1,5 @@
+package day1;
+
 import java.util.Scanner;
 public class problem5 {
     // Initialize the Variables
